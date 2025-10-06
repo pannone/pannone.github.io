@@ -4,14 +4,10 @@
   <url>
     <loc>/</loc>
   </url><url>
-    <loc>/xxx/about/</loc>
+    <loc>/home/</loc>
   </url><url>
-    <loc>/categories/</loc>
-  </url><url>
-    <loc>/xxx/research/</loc>
+    <loc>/series/</loc>
   </url><url>
     <loc>/tags/</loc>
-  </url><url>
-    <loc>/xxx/</loc>
   </url>
 </urlset>
